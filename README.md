@@ -1,5 +1,5 @@
 # TJB_flash
-Batch file to flash your hex into AVR and bin into ARM
+Batch file to flash your bin into ARM
 
 LPC1768_flash.bat flashes the main.bin file present in the specified folder 
 to the Development board (links given below) using an inbuilt USB bootloader
