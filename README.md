@@ -2,6 +2,7 @@
 # Batch file to flash your '.bin' file into an ARM microcontroller
 
 Tested on NXP LPC1768 Cortex M3 microcontroller
+
 LPC1768_flash.bat flashes the main.bin file present in the specified folder 
 to the Development board (links given below) using an inbuilt USB bootloader
 
